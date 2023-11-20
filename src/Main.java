@@ -1,3 +1,6 @@
+
+import java.util.ArrayList;
+
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
@@ -24,6 +27,11 @@ public class Main {
         Rectangle rect1 = new Rectangle(2.1f,5.4f);
         System.out.println(rect1.perimeterOfRectangle());
         System.out.println(rect1.areaOfRectangle());
+
+
+
+
+
     }
     }
 
